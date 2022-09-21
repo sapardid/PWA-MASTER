@@ -10,14 +10,16 @@
     "scope": "/",
     "screenshots": [
         {
-            "src": "images/logo512.png",
+            "src": "images/
+icon-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "platform": "wide",
             "label": "Homescreen of Awesome App"
         },
         {
-            "src": "images/logo320.png",
+            "src": "images/
+icon-320x320.png",
             "sizes": "320x320",
             "type": "image/png",
             "platform": "wide",
