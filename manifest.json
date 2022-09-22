@@ -29,22 +29,6 @@
             "name": "Shortcut name to show in the menu",
             "description": "A description of what the shortcut does",
             "url": "Link to shortcut",
-            "icons": [
-                {
-                    "src": "/images/logo144.png",
-                    "sizes": "144x144",
-                    "type": "image/png",
-                    "purpose": "any"
-                },
-                {
-                    "src": "/images/logo310.png",
-                    "sizes": "310x310",
-                    "type": "image/png",
-                    "purpose": "any"
-                }
-            ]
-        }
-    ],
     "icons": [
         {
             "src": "images/icon-pwa-144x144.jpg",
