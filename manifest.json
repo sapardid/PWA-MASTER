@@ -28,7 +28,9 @@
         {
             "name": "Shortcut name to show in the menu",
             "description": "A description of what the shortcut does",
-            "url": "Link to shortcut",
+            "url": "Link to shortcut"
+            }
+            ],
     "icons": [
         {
             "src": "images/icon-pwa-144x144.jpg",
