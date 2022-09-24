@@ -32,12 +32,7 @@
             }
             ],
     "icons": [
-        {
-            "src": "images/icon-pwa-144x144.jpg",
-            "sizes": "144x144",
-            "type": "image/png",
-            "purpose": "any"
-        },
+       
         {
             "src": "images/icon-pwa-192x192.jpg",
             "sizes": "192x192",
