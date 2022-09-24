@@ -35,7 +35,7 @@
         {
             "src": "images/icon-pwa-144x144.jpg",
             "sizes": "144x144",
-            "type": "image/png",
+            "type": "image/jpg",
             "purpose": "maskable"
         },
         {
