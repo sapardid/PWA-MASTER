@@ -33,9 +33,9 @@
             ],
     "icons": [
         {
-            "src": "images/icon-pwa-144x144.jpg",
+            "src": "images/logo144.png",
             "sizes": "144x144",
-            "type": "image/jpg",
+            "type": "image/png",
             "purpose": "maskable"
         },
         {
