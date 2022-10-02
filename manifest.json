@@ -43,7 +43,7 @@
             "src": "images/icon-A-320.png",
             "sizes": "320x320",
             "type": "image/png",
-            "purpose": "maskable"
+            "purpose": "any"
         },
         {
             "src": "images/icon-pwa-512x512.jpg",
